@@ -8,5 +8,5 @@ compared to Python as Python is much slower compartive to C++
 purposes.
 
 4) To run this code you can try the following command on LINUX:
-  $g++ rbm.cpp -o RBM
-  $./RBM <inputs
+$g++ rbm.cpp -o RBM
+$./RBM <inputs
